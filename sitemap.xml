@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--Url Extract: 1-->
+  <url>
+    <loc>https://maxymo1998.github.io/tom/index.html</loc>
+    <lastmod>2023-01-25</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+ <url>
+    <loc>https://maxymo1998.github.io/TOM/cv.html</loc>
+    <lastmod>2023-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
